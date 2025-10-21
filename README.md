@@ -165,27 +165,6 @@ The application uses multiple quote APIs for reliability:
 - **User-friendly error messages**
 - **Graceful degradation** when APIs fail
 
-## 🚀 Deployment
-
-### Netlify
-1. Connect your GitHub repository
-2. Set build command: `npm run build`
-3. Set publish directory: `build`
-4. Deploy automatically on push
-
-### Vercel
-1. Import your GitHub repository
-2. Vercel will auto-detect React settings
-3. Deploy with zero configuration
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature/amazing-feature`
-3. Commit your changes: `git commit -m 'Add amazing feature'`
-4. Push to the branch: `git push origin feature/amazing-feature`
-5. Open a Pull Request
-
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
