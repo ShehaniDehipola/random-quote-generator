@@ -2,6 +2,9 @@
 
 A beautiful, modern quote generator built with React and Tailwind CSS, featuring real-time API integration, animated backgrounds, and smooth user interactions.
 
+## 🚀 Live Demo  
+👉 [View on Netlify](https://relaxed-speculoos-cb07e5.netlify.app/)
+
 ![Quote Generator](https://img.shields.io/badge/React-19.2.0-blue?style=for-the-badge&logo=react)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4.18-38B2AC?style=for-the-badge&logo=tailwind-css)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript)
